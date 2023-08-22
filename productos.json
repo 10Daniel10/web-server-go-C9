@@ -1,0 +1,56 @@
+[
+    {
+      "Id": 1,
+      "Nombre": "Producto 1",
+      "Precio": 10.99,
+      "Stock": 100,
+      "Codigo": "ABC123",
+      "Publicado": true,
+      "FechaDeCreacion": "2023-08-19"
+    },
+    {
+      "Id": 2,
+      "Nombre": "Producto 2",
+      "Precio": 20.49,
+      "Stock": 50,
+      "Codigo": "XYZ456",
+      "Publicado": false,
+      "FechaDeCreacion": "2023-08-19"
+    },
+    {
+      "Id": 3,
+      "Nombre": "Producto 3",
+      "Precio": 5.99,
+      "Stock": 200,
+      "Codigo": "DEF789",
+      "Publicado": true,
+      "FechaDeCreacion": "2023-08-19"
+    },
+    {
+      "Id": 4,
+      "Nombre": "Producto 4",
+      "Precio": 15.75,
+      "Stock": 75,
+      "Codigo": "GHI012",
+      "Publicado": true,
+      "FechaDeCreacion": "2023-08-19"
+    },
+    {
+      "Id": 5,
+      "Nombre": "Producto 5",
+      "Precio": 8.50,
+      "Stock": 150,
+      "Codigo": "JKL345",
+      "Publicado": false,
+      "FechaDeCreacion": "2023-08-19"
+    },
+    {
+      "Id": 6,
+      "Nombre": "Producto 6",
+      "Precio": 12.25,
+      "Stock": 80,
+      "Codigo": "MNO678",
+      "Publicado": true,
+      "FechaDeCreacion": "2023-08-19"
+    }
+  ]  
